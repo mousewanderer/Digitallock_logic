@@ -50,20 +50,37 @@ To focus on the core digital lock functionality, the repository has been renamed
 
 What I would look like
 
-#pictures
-<img width="1321" height="773" alt="Screenshot 2026-03-30 205423" src="https://github.com/user-attachments/assets/f9ee6851-234d-405c-bf89-3e173136662a" />
+# pictures
 
-<img width="621" height="370" alt="Screenshot 2026-03-30 205403" src="https://github.com/user-attachments/assets/4f281885-c73e-400a-8b46-8741a3fce36b" />
-
-<img width="872" height="414" alt="Screenshot 2026-03-30 205352" src="https://github.com/user-attachments/assets/3c40b91b-3ce8-467f-8101-37eb08b4b93e" />
-
-<img width="975" height="610" alt="Screenshot 2026-03-30 205342" src="https://github.com/user-attachments/assets/5fd29325-06fe-47c0-831e-5e161708c428" />
-
-<img width="593" height="752" alt="Screenshot 2026-03-30 205333" src="https://github.com/user-attachments/assets/29e844c6-6194-4773-beba-7b2d1cf2b7b2" />
-
-<img width="995" height="824" alt="Screenshot 2026-03-30 205319" src="https://github.com/user-attachments/assets/a2408721-0580-44db-b077-6222ccc49de4" />
+<img width="1244" height="584" alt="Screenshot 2026-03-30 205435" src="https://github.com/user-attachments/assets/cf436406-70a8-476e-b5dc-e6558431fd5c" />
 
 <img width="1278" height="705" alt="Screenshot 2026-03-30 205247" src="https://github.com/user-attachments/assets/b435e15a-aa67-4df7-b959-ffb318c63480" />
 
-<img width="1244" height="584" alt="Screenshot 2026-03-30 205435" src="https://github.com/user-attachments/assets/cf436406-70a8-476e-b5dc-e6558431fd5c" />
+<img width="995" height="824" alt="Screenshot 2026-03-30 205319" src="https://github.com/user-attachments/assets/a2408721-0580-44db-b077-6222ccc49de4" />
+
+<img width="593" height="752" alt="Screenshot 2026-03-30 205333" src="https://github.com/user-attachments/assets/29e844c6-6194-4773-beba-7b2d1cf2b7b2" />
+
+
+
+<img width="975" height="610" alt="Screenshot 2026-03-30 205342" src="https://github.com/user-attachments/assets/5fd29325-06fe-47c0-831e-5e161708c428" />
+
+<img width="872" height="414" alt="Screenshot 2026-03-30 205352" src="https://github.com/user-attachments/assets/3c40b91b-3ce8-467f-8101-37eb08b4b93e" />
+
+
+<img width="621" height="370" alt="Screenshot 2026-03-30 205403" src="https://github.com/user-attachments/assets/4f281885-c73e-400a-8b46-8741a3fce36b" />
+
+<img width="1321" height="773" alt="Screenshot 2026-03-30 205423" src="https://github.com/user-attachments/assets/f9ee6851-234d-405c-bf89-3e173136662a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
