@@ -17,7 +17,7 @@ To focus on the core digital lock functionality, the repository has been renamed
 
 - **3‑digit code entry** using buttons to increment when its over 9 it will go back to 0
 - **Code comparator** built from logic gates (AND/OR/XOR)
-- **State control** with flip‑flops utilizing  JK or D flipflop to manage locked/unlocked states and confimed shutdown
+- **State control** with flip‑flops utilizing D flipflop to manage locked/unlocked states and confimed shutdown
 - **Timer circuit** using a 555 timer or a counter (e.g., 74LS192) to generate a fixed access period starting in 60 seconds
 - **Visual indicators**: LEDs for “Locked” / “Unlocked”, and a 7‑segment display for timer countdown
 - **Reset & error handling**: Wrong code resets the entry without unlocking
